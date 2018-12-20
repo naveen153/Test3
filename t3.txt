@@ -1,0 +1,2 @@
+COMMIT_EDITMSG	description  HEAD   index  logs     ORIG_HEAD  t3.txt
+config		FETCH_HEAD   hooks  info   objects  refs
